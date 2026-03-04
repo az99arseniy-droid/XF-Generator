@@ -1,2 +1,2 @@
 # XF-Generator
-Это конструктор скриптов . lua длч GameGuardian по бдокам 
+Это конструктор скриптов . lua для GameGuardian по бдокам 
